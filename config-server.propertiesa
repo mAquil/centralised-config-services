@@ -1,0 +1,3 @@
+spring.application.name=authenticationservice
+server.port=8085
+custom.greeting=Hello from config server!
